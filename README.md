@@ -6,5 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
