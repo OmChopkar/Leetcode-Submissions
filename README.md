@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
