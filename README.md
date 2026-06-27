@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
