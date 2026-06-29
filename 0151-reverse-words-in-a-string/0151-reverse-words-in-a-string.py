@@ -1,0 +1,10 @@
+class Solution(object):
+    def reverseWords(self, s):
+        l=s.split()
+        left=0
+        right=len(l)-1
+        while(left<right):
+            l[left],l[right]=l[right],l[left]
+            left+=1
+            right-=1
+        return " ".join(l)
