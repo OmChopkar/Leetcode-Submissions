@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 ## Stack
 |  |
