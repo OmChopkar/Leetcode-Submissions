@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
+| [3340-check-balanced-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3340-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
