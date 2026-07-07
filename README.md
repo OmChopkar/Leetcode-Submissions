@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 ## String
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
