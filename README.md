@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0137-single-number-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0263-ugly-number) |
