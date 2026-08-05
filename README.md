@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
