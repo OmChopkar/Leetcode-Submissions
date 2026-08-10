@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -101,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
