@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2413-smallest-even-multiple](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -171,9 +173,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
