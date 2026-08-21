@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2469-convert-the-temperature) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -182,9 +185,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
