@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
 ## String
 |  |
 | ------- |
