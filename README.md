@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
+| [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
