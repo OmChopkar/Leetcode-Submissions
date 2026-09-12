@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [1768-merge-strings-alternately](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3340-check-balanced-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3813-vowel-consonant-score) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
