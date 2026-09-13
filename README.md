@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3813-vowel-consonant-score) |
+| [3856-trim-trailing-vowels](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3856-trim-trailing-vowels) |
 ## String Matching
 |  |
 | ------- |
