@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0796-rotate-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
