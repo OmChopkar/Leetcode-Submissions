@@ -13,10 +13,11 @@ class Solution(object):
             temp = divisor
             mult = 1
             
-            while dividend >= (temp << 1):
-                temp <<= 1
-                mult <<= 1
+            while dividend >= (temp + temp):
+                temp += temp
+                mult += mult
 
             dividend -= temp
             quo += mult
+
         return -quo if is_neg else quo
