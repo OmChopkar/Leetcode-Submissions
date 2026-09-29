@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2427-number-of-common-factors) |
