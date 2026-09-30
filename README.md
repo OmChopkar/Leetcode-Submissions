@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0796-rotate-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
