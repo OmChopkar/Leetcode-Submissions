@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0066-plus-one) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0075-sort-colors) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
