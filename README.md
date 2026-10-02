@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0682-baseball-game) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
