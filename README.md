@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0125-valid-palindrome) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
