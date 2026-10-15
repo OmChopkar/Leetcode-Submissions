@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
