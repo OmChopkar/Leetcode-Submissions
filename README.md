@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1768-merge-strings-alternately) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
