@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
