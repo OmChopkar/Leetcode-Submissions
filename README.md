@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2785-sort-vowels-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
