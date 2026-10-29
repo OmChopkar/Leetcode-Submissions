@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0896-monotonic-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1768-merge-strings-alternately) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
