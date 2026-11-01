@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
