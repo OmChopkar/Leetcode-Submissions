@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0344-reverse-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0268-missing-number) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0217-contains-duplicate) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -410,4 +414,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0202-happy-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
