@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
+| [1748-sum-of-unique-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
+| [1748-sum-of-unique-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
