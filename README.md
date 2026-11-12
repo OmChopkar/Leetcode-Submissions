@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
