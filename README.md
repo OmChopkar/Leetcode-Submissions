@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3692-majority-frequency-characters](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3692-majority-frequency-characters) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3856-trim-trailing-vowels) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3692-majority-frequency-characters](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3692-majority-frequency-characters](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3692-majority-frequency-characters) |
 ## Number Theory
 |  |
 | ------- |
