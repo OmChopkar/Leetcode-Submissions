@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1089-duplicate-zeros) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
