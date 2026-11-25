@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0896-monotonic-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Radix Sort
 |  |
