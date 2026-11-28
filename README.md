@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1089-duplicate-zeros) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0819-most-common-word) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/OmChopkar/Leetcode-GFG-Submissions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
